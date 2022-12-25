@@ -1,7 +1,7 @@
 <h1 align="center"> Data Analytics Portfolio by Jean Chao </h1> <br>
 
 <p align="center">
-    < img src="https://github.com/jchaodata/DataPortfolio/blob/main/image/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg" width="400" height="300">
+    <img src="https://github.com/jchaodata/DataPortfolio/blob/main/image/1*ZhYNqU2y96_f3QkWq9oiWQ.jpeg" width="400" height="300">
 </p >
 
 ## About Me 

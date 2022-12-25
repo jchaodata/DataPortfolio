@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hi, my name is Jean! I graduated from the University of Oregon with a bachelor degree in Business Analytics, and I am currently pursing Master of Science in Data Science at the University of Chicago. In this repository, I've listed out the data science projects that I completed in the past. They are categorized in the following:
+Hello, my name is Jean! I received a bachelor's degree in Business Analytics from the University of Oregon and am currently pursuing a Master of Science in Data Science at the University of Chicago. In this repository, I have compiled a list of data science projects I have completed in the past. These projects are organized into the following categories:
 
 ## Table of Contents
 * [Projects](#projects)
